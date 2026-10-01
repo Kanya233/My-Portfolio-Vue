@@ -1,0 +1,1 @@
+<template><footer class="footer"><div class="container"><a class="brand" href="#home">KM<span>.</span></a><p>© {{ new Date().getFullYear() }} Kanya Masinda.Out to thrive!</p></div></footer></template>
